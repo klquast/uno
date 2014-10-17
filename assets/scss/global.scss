@@ -304,3 +304,15 @@ hr {
 .hidden {
   display: none !important;
 }
+
+.color-danger {
+  color: $red;
+}
+
+.color-success {
+  color: $bright-green;
+}
+
+.color-warning {
+  color: $gold;
+}

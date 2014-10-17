@@ -1485,6 +1485,18 @@ hr {
   display: none !important;
 }
 
+.color-danger {
+  color: #e25440;
+}
+
+.color-success {
+  color: #25b34e;
+}
+
+.color-warning {
+  color: #f3a42e;
+}
+
 .post-comments {
   border-top: 1px solid #dddddd;
   padding: 60px 0;
